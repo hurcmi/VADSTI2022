@@ -3,7 +3,7 @@
 # Virtual Applied Data Science Training Program 2.0
 # VADSTI 2022 Theme: “Data Science Approaches to Better Understand Clinical and Genomic Informatics”
 
-# Module 2: Data Exploration and Visualization
+# Module 4: Data Exploration and Visualization
 
 This module provides recipes for exploratory data analysis and data visualization which are a critical step in any data science project. The goal of this module is to learn how to visualize and perform initial investigations of the data so as to discover patterns, spot anomalies, test hypothesis, and check assumptions with the help of summary statistics and graphical representations.
 
